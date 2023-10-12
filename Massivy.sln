@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Massivy", "Massivy\Massivy.csproj", "{F83FE6F2-CB38-4C6B-8A2C-A2F29B79E44E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzMassiv", "DzMassiv\DzMassiv.csproj", "{3EF03321-896A-41FA-814A-D914030AEA84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F83FE6F2-CB38-4C6B-8A2C-A2F29B79E44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F83FE6F2-CB38-4C6B-8A2C-A2F29B79E44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F83FE6F2-CB38-4C6B-8A2C-A2F29B79E44E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF03321-896A-41FA-814A-D914030AEA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF03321-896A-41FA-814A-D914030AEA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF03321-896A-41FA-814A-D914030AEA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF03321-896A-41FA-814A-D914030AEA84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
