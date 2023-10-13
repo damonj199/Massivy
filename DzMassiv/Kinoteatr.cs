@@ -9,21 +9,20 @@ for (int i = 0; i < arrey.GetLength(0); i++)
         Console.WriteLine("Y: " + i + " X: " + j);
         arrey[i, j] = int.Parse(Console.ReadLine());
     }
-    
 }
-Console.WriteLine(arrey);
+    Console.WriteLine(sumKino[arrey.GetLength(0)-1]);
 
 for (int i = 0; i < arrey.GetLength(1); i++)
 {
 
     for (int j = 0; j < arrey.GetLength(0); j++)
     {
-        sum += arrey[j,i];
+        sum += arrey[i,j];
     }
 
-    for (int k = 0; k < sumKino.Length; k++)
+    for (int k = 0; k < arrey.GetLength(0); k++)
     {
         sumKino[k] = sum;
     }
+    Console.WriteLine(sumKino[i]);
 }
-Console.WriteLine(sumKino);
