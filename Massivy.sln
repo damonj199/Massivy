@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Massivy", "Massivy\Massivy.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DzMassiv", "DzMassiv\DzMassiv.csproj", "{3EF03321-896A-41FA-814A-D914030AEA84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListLesson", "ListLesson\ListLesson.csproj", "{AED27893-6FC3-47D7-8F8F-34A6CA662F7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListLesson", "ListLesson\ListLesson.csproj", "{AED27893-6FC3-47D7-8F8F-34A6CA662F7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{141FCE90-135B-486B-B4E4-9BFD8A7603A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{AED27893-6FC3-47D7-8F8F-34A6CA662F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AED27893-6FC3-47D7-8F8F-34A6CA662F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED27893-6FC3-47D7-8F8F-34A6CA662F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141FCE90-135B-486B-B4E4-9BFD8A7603A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141FCE90-135B-486B-B4E4-9BFD8A7603A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141FCE90-135B-486B-B4E4-9BFD8A7603A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141FCE90-135B-486B-B4E4-9BFD8A7603A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
